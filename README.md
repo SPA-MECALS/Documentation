@@ -3,10 +3,10 @@ Documentation for the MECALS project
 
 # Folder structure
 The Project was run with 5 Teams:
-* Architecture
-* Frontend
-* Backend
-* Tester
-* Management
+* [Architecture](./Architecture)
+* [Frontend](./Frontend)
+* [Backend](./Backend)
+* [Tester](./Testers)
+* [Management](./Management)
 
 Development documentation may also be in the components repositories.
